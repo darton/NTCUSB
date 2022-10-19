@@ -4,7 +4,7 @@
 
 Copy main.py to RPi Pico.
 
-Connect the NTC100 sensor to the ADC RPi Pico port using wiring diagram below.
+Connect the NTC10 sensor to the ADC RPi Pico port using wiring diagram below.
 
  - ### Wiring diagram
 ```
