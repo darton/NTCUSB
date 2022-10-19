@@ -15,4 +15,4 @@ RPi Pico  [GP28 Pin 28]----------/\/\/\--------- [VCC Pin 36]
 ```
 
 Connect PC with the RPi Pico together with the USB cable.
-Select proper serial port number in terminal configuration or use ntc_usb_gui.py to show measured values in the pop-up window on Windows, MacOS or Linux
+Select proper serial port number in terminal configuration or use ntc_usb_gui.py to show measured values in the pop-up window on Windows, MacOS or Linux Operating System.
